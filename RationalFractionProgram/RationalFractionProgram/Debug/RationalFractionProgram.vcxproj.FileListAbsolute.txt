@@ -1,0 +1,3 @@
+C:\Users\roman\source\repos\RationalFractionProgram\RationalFractionProgram\Debug\RationalFractionProgram.vcxprojAssemblyReference.cache
+C:\Users\roman\source\repos\RationalFractionProgram\RationalFractionProgram\Debug\RationalFractionProgram.MyForm.resources
+C:\Users\roman\source\repos\RationalFractionProgram\RationalFractionProgram\Debug\RationalFractionProgram.vcxproj.GenerateResource.cache
